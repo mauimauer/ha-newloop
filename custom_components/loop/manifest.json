@@ -4,9 +4,6 @@
   "config_flow": true,
   "documentation": "https://github.com/mauimauer/ha-newloop",
   "requirements": [],
-  "ssdp": [],
-  "zeroconf": [],
-  "homekit": {},
   "dependencies": [],
   "codeowners": [
     "@mauimauer"
