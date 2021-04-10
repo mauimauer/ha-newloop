@@ -1,0 +1,17 @@
+# Generic ignores
+*.bak
+*.log
+*.db
+*.db-shm
+*.db-wal
+*.pyc
+.pip_progress
+._*
+__pycache__
+
+# OSX
+.DS_Store
+default.profraw
+
+# Ignore files created by IDEs
+.vscode

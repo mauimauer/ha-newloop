@@ -1,0 +1,5 @@
+{
+  "name": "Loop HA Component",
+  "domains": ["loop"],
+  "homeassistant": "0.109.0"
+}
