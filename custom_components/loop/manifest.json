@@ -10,5 +10,6 @@
   "dependencies": [],
   "codeowners": [
     "@mauimauer"
-  ]
+  ],
+  "version": "v0.2"
 }
