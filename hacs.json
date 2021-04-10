@@ -1,5 +1,7 @@
 {
   "name": "Loop HA Component",
-  "domains": ["loop"],
-  "homeassistant": "0.109.0"
+  "domains": ["sensor"],
+  "homeassistant": "0.109.0",
+  "iot_class": "cloud_poll",
+  "content_in_root": false,
 }
